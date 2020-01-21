@@ -15,3 +15,9 @@
 	pushcar = push -u origin "サイドカー"
 	commitcar = commit -m "サイドカー"
 
+	swcman = switch -c "埼玉銘菓・十万石饅頭"
+	swman = switch "埼玉銘菓・十万石饅頭"
+	delman = branch -d "埼玉銘菓・十万石饅頭"
+	commitman = commit -m "埼玉銘菓・十万石饅頭"
+	pushman = push -u origin "埼玉銘菓・十万石饅頭"
+
